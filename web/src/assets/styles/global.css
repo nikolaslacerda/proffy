@@ -27,7 +27,7 @@
 }
 
 html, body, #root {
-    height: 100vh; /* A página sempre ocupa 100% da tela */
+    height: 100vh;
 }
 
 body {
@@ -44,7 +44,8 @@ body,
 input,
 button,
 textarea {
-  font: 500 1.6rem Poppins; /* rem é utilizado para aplicações responsivas, muda tudo ao mesmo tempo de acordo com o font-size do head */
+  font: 500 1.6rem Poppins;
+  color: var(--color-text-base)
 }
 
 .container{

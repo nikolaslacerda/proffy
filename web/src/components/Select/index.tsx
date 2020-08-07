@@ -18,7 +18,7 @@ const Select: React.FC<SelectProps> = ({ label, name, options, ...rest }) => {
                 <select value="" id={name} {...rest}> 
                     <option value="" disabled selected hidden>Selecione uma opção</option>
                     {options.map(option => {
-                        return <option key={option.value} value={option.label}>{option.label}</option>
+                        return <option key={option.value} value={option.value}>{option.label}</option>
                     })}
                 </select>
         </div>

@@ -23,10 +23,30 @@
   
 </p>
 
+<p align="center">
+ <a href="#book-sobre">Sobre</a> •
+ <a href="#art-layout">Layout</a> •
+ <a href="#hammer_and_wrench-tecnologias">Tecnologias</a> •
+ <a href="#construction_worker-como-executar">Como executar</a>
+</p>
+
 # :book: Sobre
 Este projeto foi desenvolvido na Next Level Week 2 da Rocketseat.
 
 A aplicação conecta estudantes e professores para aulas particulares.
+
+# :art: Layout
+
+### :computer: Web Screenshots
+
+Home | Study
+---|---
+| ![home](.github/web-landing.png) | ![study](.github/web-study.png) | 
+
+### :iphone: Mobile Screenshots
+Home | Study | Favorites
+---|---|---
+| ![home](.github/mobile-home.png) | ![study](.github/mobile-study.png) | ![favorites](.github/mobile-favorites.png) |
 
 # :hammer_and_wrench: Tecnologias
 Este projeto utiliza as seguintes tecnologias:
